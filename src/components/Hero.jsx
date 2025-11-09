@@ -1,0 +1,1 @@
+import React from 'react';export default function Hero(){return<div className='p-10 text-center'><h1 className='text-5xl font-bold'>Bow of Destiny</h1><p>Sunrise over Ayodhya</p></div>}
